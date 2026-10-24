@@ -1,4 +1,4 @@
-\# SQL Playground
+# SQL Playground
 
 
 
@@ -6,27 +6,27 @@ An app for practising SQL using the World database.
 
 
 
-\[!\[Open in Streamlit](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](https://jbc-qr-sql-playground.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jbc-sql-playground.streamlit.app/)
 
 
 
-\## Features
+## Features
 
 
 
-\- Write and execute SQL statements.
+- Write and execute SQL statements.
 
-\- Explore cities, countries, and languages.
+- Explore cities, countries, and languages.
 
-\- View query results as tables.
+- View query results as tables.
 
-\- View database column information.
-
-
+- View database column information.
 
 
 
-\## Developer
+
+
+## Developer
 
 
 
